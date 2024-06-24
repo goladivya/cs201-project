@@ -13,18 +13,19 @@ We have these banks let say:
 4.Bank -D
 5 Bank - E
 
-Following are the payments to be done:
+Following are the payments to be done: <br>
      &emsp;&emsp;&emsp;    **Debtor Bank**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;                **Creditor Bank** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Amount**
 1. B   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;             A &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  &emsp;&emsp;&emsp;            Rs 300
 2. C   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;             A &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  &emsp;&emsp;&emsp;            Rs 700
-3.  D   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;             B&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  &emsp;&emsp;&emsp;            Rs 500
+3. D   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;             B&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  &emsp;&emsp;&emsp;            Rs 500
 4. E   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;             B&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  &emsp;&emsp;&emsp;            Rs 500
 
 Following is the list of Banks and their supported payment modes :
-1.&emsp;  A(World_bank)  &emsp;&emsp;- &emsp; Google_Pay,  Paytm
-2.&emsp;B &emsp;- &emsp; Google_Pay, 
-3.&emsp;C &nbsp;&emsp;- &emsp; Google_Pay
-4.&emsp;D &emsp; - &emsp;  Paytm
+
+1.&emsp;  A(World_bank)  &emsp;&emsp;- &emsp; Google_Pay,  Paytm<br>
+2.&emsp;B &emsp;- &emsp; Google_Pay, <br>
+3.&emsp;C &nbsp;&emsp;- &emsp; Google_Pay<br>
+4.&emsp;D &emsp; - &emsp;  Paytm<br>
 5.&emsp;E  &emsp;- &emsp; Paytm
 
 To pick the first Bank, we calculate the **net amount** for every Bank by using the below formula and store them in list:
@@ -44,7 +45,7 @@ Below is the execution of our current example:
     
 
 ###  How to use it
-All the instructions are given while you are executing the code so it will guide you to the final output.
+All the instructions are given while you are executing the code  it will guide you to the final output.
 
 
 **Group Members**
