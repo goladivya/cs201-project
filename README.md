@@ -48,9 +48,7 @@ Below is the execution of our current example:
 All the instructions are given while you are executing the code  it will guide you to the final output.
 
 
-**Group Members**
-1.Divya Gola(2022CSB1080)
-2.Himanshi S Wanjari(2022CSB1085)
+
 
 **Thank You!**
 
